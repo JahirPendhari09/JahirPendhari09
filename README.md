@@ -9,11 +9,7 @@ Hello Everyone! my name is Jahir Pendhari and I am a Full Stack Developer, passi
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Jahir Pendhari 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JahirPendhari09" alt="JahirPendhari09" /></a> </p>
-- 🔭 I’m currently pursuing **Full Stack Web Development**
-- 👯 I’m looking to collaborate on **Back End Development Project**
-- 📫 Reach me on **jahirpp1999@gmail.com**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 
 
 ## 📊 My Github Stats
