@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there Jahir Pendhari 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <a href="https://JahirPendhari09.github.io/">Jahir Pendhari 💻</a>!
 </h2>
 Hello Everyone! my name is Jahir Pendhari and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people.
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
