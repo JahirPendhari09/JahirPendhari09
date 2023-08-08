@@ -16,7 +16,7 @@
 <img src="https://streak-stats.demolab.com?user=JahirPendhari09&_border=true&theme=radical&hide_border=true&theme=react" style="width: 40%" />
 </div>
 <!-- Profile View -->
-<h2 align="left"> <img src="https://komarev.com/ghpvc/?username=JahirPendhari09&label=Profile%20views&color=0e75b6&style=flat" alt="Jahir Pendhari" /> </h2>
+<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=JahirPendhari09&label=Profile%20views&color=0e75b6&style=flat" alt="Jahir Pendhari" /> </h1>
 
  <h2 align="left">⚡Activity Graph:</h2>
    <a><img alt="Activity Graph(https://ashutosh00710.github.io/github-readme-activity-graph/)" src="https://github-readme-activity-graph.vercel.app/graph?username=JahirPendhari09&bg_color=819cc1&color=b300a4&line=b9e260&point=6e59d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
