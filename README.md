@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
 </p>
+
 <!-- Profile View -->
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=JahirPendhari09&label=Profile%20views&color=0e75b6&style=flat" alt="Jahir Pendhari" /> </h1>
 
