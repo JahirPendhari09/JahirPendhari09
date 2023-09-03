@@ -6,7 +6,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahirPendhari09&theme=solarized-dark&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 37%" />
 </div>
-
 <div align="center" style="display: flex; ">
  <img src="https://streak-stats.demolab.com?user=JahirPendhari09&_border=true&theme=radical&hide_border=true&theme=react" style="width: 40%" />
 </div>
