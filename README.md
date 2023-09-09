@@ -16,7 +16,7 @@
 <img src="https://streak-stats.demolab.com?user=jahirPendhari09&_border=true&theme=radical&hide_border=true&theme=react" style="width: 40%" />
 
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />  (https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" style="width:38%" />
 
 <h2>🥇 Skills:  </h2>  
 <p >
