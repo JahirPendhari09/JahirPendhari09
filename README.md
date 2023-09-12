@@ -13,7 +13,6 @@
 	</a>
 </p>
 <h2> 📊 My Github Stats </h2>
-
 <!-- github status  -->
 
 <div align="center" style="display: flex; gap:50px">
