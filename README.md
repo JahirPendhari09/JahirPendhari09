@@ -6,7 +6,6 @@
 
 - 💬 Have a look at my [Portfolio](https://JahirPendhari09.github.io/)
 
-  
 <h2> Contact Me</h2>  
 <p align="left"> 
 	<a href="https://www.linkedin.com/in/jahir-pendhari-342b801b7/">
