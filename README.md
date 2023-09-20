@@ -23,7 +23,6 @@
 
 </div>
 <div align="center" style="display: flex; ">
-
 <img src="https://streak-stats.demolab.com?user=JahirPendhari09&_border=true&theme=radical&hide_border=true&theme=react" style="width: 40%" />
 </div>
 
