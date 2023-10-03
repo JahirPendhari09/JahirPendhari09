@@ -5,6 +5,8 @@
 - 📫 Reach me on **jahirpp1999@gmail.com**
 
 - 💬 Have a look at my [Portfolio](https://JahirPendhari09.github.io/)
+- 
+- - 🔭 Have a look at my [Resume](https://drive.google.com/file/d/1PKOfb7E58nr4_5XTVaK4e_9dk7JfQw8y/view?usp=sharing)
 
 <h2> Contact Me</h2>  
 <p align="left"> 
