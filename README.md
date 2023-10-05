@@ -6,7 +6,7 @@
 
 - 💬 Have a look at my [Portfolio](https://JahirPendhari09.github.io/)
 
-- ✅ I've solved more than 50 coding problems on [Leetcode](https://leetcode.com/Jahir09/)
+- ✅ I've solved more than 50 Data Structures and Algorithms problems on [Leetcode!](https://leetcode.com/Jahir09/)
   
 -  🔭 Have a look at my [Resume](https://drive.google.com/file/d/1PKOfb7E58nr4_5XTVaK4e_9dk7JfQw8y/view?usp=sharing)
 
