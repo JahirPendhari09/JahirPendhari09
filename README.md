@@ -1,4 +1,4 @@
--  My name is Jahir Pendhari
+- <h1> My name is Jahir Pendhari</h1>
   
 - 🔭 I’m currently pursuing **Full Stack Web Development**
   
