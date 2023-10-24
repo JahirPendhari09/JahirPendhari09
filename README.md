@@ -1,4 +1,4 @@
- <h1> Nice 👋 to see you </h1>
+ <h1> Hey! Nice to see you </h1>
   
 - 🔭 I’m currently pursuing **Full Stack Web Development**
   
