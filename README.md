@@ -16,7 +16,7 @@
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JahirPendhari09&label=Profile%20views&color=0e75b6&style=flat" alt="Jahir Pendhari" /> </p>
 <h2> 📊 My Github Stats </h2>
 <!-- github status  -->
 <div align="center" style="display: flex; gap:50px">
