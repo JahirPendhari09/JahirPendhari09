@@ -12,9 +12,9 @@
 
 <h2> Contact Me</h2>  
 <p align="left"> 
-	<a href="https://www.linkedin.com/in/jahir-pendhari-342b801b7/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
+   <a href="https://www.linkedin.com/in/jahir-pendhari-342b801b7/">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JahirPendhari09&label=Profile%20views&color=0e75b6&style=flat" alt="Jahir Pendhari" />
 </p>
