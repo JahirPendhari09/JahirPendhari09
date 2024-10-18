@@ -8,7 +8,7 @@
 
 - ✅ I've solved 260+ Data Structures and Algorithms problems on [Leetcode!](https://leetcode.com/Jahir09/)
   
--  🔭 Have a look at my [Resume](https://drive.google.com/file/d/1FFYakH9w3bHXcSWQk4DC4Ghk6LnIpf1i/view?usp=drive_link)
+-  🔭 Have a look at my [Resume](https://drive.google.com/file/d/11DZrUYxKMsraaOkkZo_PXbxUSi58ey-m/view?usp=sharing)
 
 <h2> Contact Me</h2>  
 <p align="left"> 
