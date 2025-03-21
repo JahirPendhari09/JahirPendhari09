@@ -48,6 +48,7 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 
+
  <h2 align="left">⚡Activity Graph:</h2>
    <a><img alt="Activity Graph(https://ashutosh00710.github.io/github-readme-activity-graph/)" src="https://github-readme-activity-graph.vercel.app/graph?username=JahirPendhari09&bg_color=819cc1&color=b300a4&line=b9e260&point=6e59d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
    </a>
