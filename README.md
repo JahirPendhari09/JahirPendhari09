@@ -1,6 +1,6 @@
  <h1> Hey! Nice to see you 🖐️ </h1>
  
-- 🔭 I’m  **Software Engineer at Glaxom Solutions Pvt Ltd with 1 years of experience**
+- 🔭 I’m  **Software Engineer at Glaxom Solutions Pvt Ltd with 1.5+ years of experience in a Tech**
 
 - 📫 Reach me on **jahirpp1999@gmail.com**
 
